@@ -1,0 +1,12 @@
+*{
+  padding: 0px;
+  margin:0px;
+}
+#inputform{
+  text-align: center;
+  padding: 50px;
+  border:2px solid black;
+  margin:400px;
+  display: inline-block;
+
+}
